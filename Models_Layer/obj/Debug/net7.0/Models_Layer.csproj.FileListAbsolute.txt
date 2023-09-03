@@ -1,0 +1,5 @@
+C:\Users\backu\OneDrive\Desktop\DoctorProjectTEST\Models_Layer\obj\Debug\net7.0\Models_Layer.csproj.AssemblyReference.cache
+C:\Users\backu\OneDrive\Desktop\DoctorProjectTEST\Models_Layer\obj\Debug\net7.0\Models_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backu\OneDrive\Desktop\DoctorProjectTEST\Models_Layer\obj\Debug\net7.0\Models_Layer.AssemblyInfoInputs.cache
+C:\Users\backu\OneDrive\Desktop\DoctorProjectTEST\Models_Layer\obj\Debug\net7.0\Models_Layer.AssemblyInfo.cs
+C:\Users\backu\OneDrive\Desktop\DoctorProjectTEST\Models_Layer\obj\Debug\net7.0\Models_Layer.csproj.CoreCompileInputs.cache
